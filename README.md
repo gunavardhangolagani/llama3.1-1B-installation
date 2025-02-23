@@ -1,7 +1,7 @@
 ## llama3.1-1B-installation
 - Step-1: Download Llama 3.2 1B model from hugging face  [![Llama-3.2-1B](https://img.shields.io/badge/Llama_3.2_1B-hugging_face-yellow)](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
 - Step-2: Fill the Llama 3.2 Community Licence Agreement in hugging face
-- Step-3: Your request will approved in 10 min
+- Step-3: Your request will be approved in 10 min
 - Step-4: Create Hugging Face Access token ( Make sure you check the option Read access to contents of all public gated repos you can access)
 
 ## Llama 3.1-1B Setup in local system
@@ -43,11 +43,8 @@
       ```python
       pip install accelerate>=0.26.0
       ```
-- Step-4 : Run Python Script in the same directory of created folder llama1B. [![Link](https://img.shields.io/badge/-blue)]()
-      ```
-      C://codes//llama1B//
-      ```
-- Step-5 : Run The Model [![Link](https://img.shields.io/badge/-blue)]()
+- Step-4 : Run Python Script to download llama3.2-1B. [![Link](https://img.shields.io/badge/download_model-blue)](https://github.com/gunavardhangolagani/llama3.1-1B-installation/blob/main/download_model.py)
+- Step-5 : Run The Model [![Link](https://img.shields.io/badge/test_model-blue)](https://github.com/gunavardhangolagani/llama3.1-1B-installation/blob/main/test_model.py)
       
 
 ## Setup-NVIDIA-GPU
