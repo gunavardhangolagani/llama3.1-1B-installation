@@ -1,4 +1,4 @@
-## llama3.1-1B-installation
+## LLama3.1-1B-installation
 - Step-1: Download Llama 3.2 1B model from hugging face  [![Llama-3.2-1B](https://img.shields.io/badge/Llama_3.2_1B-hugging_face-yellow)](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
 - Step-2: Fill the Llama 3.2 Community Licence Agreement in hugging face
 - Step-3: Your request will be approved in 10 min
