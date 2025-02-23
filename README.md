@@ -7,7 +7,7 @@
 ## Llama 3.1-1B Setup in local system
 - Step-1 : Create a Workspace folder (through command prompt)
    ```
-   cd\
+   cd
    ```
    ```
    mkdir codes
